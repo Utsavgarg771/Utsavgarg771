@@ -1,6 +1,5 @@
 # About Me:
-Product + Founder’s Office<br>Working on A2A systems, GenAI workflows, and early-stage products<br>I turn ideas into PRDs, systems, and shipped features<br><br>Looking to Collaborate On<br>0→1 startups<br>Product strategy + PRDs<br>AI × product systems<br><br>Currently Learning<br>Agent-to-agent protocols<br>GenAI applications in product<br>Scalable system design<br><br>Ask Me About<br>PRDs, GTM, product thinking<br>Founder’s Office execution<br>Early-stage chaos → structure<br><br>Fun Fact<br>I care more about how systems behave than how they look
-
+Product + Founder’s Office<br>Building A2A systems, GenAI workflows, and 0→1 products<br>I turn ideas into PRDs → systems → shipped features<br><br>Looking to Collaborate On<br>0→1 startups · Product strategy · AI × product<br><br>Currently Learning<br>A2A protocols · GenAI in products · scalable system design<br><br>Ask Me About<br>PRDs · GTM · Founder’s Office · 0→1 execution<br><br>Fun Fact<br>Systems > aesthetics
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/utsav-garg-a33714251) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Utsav3Garg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:utsav24101@iiitnr.edu.in) 
