@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Product + Founder’s Office<br>Working on A2A systems, GenAI workflows, and early-stage products<br>I turn ideas into PRDs, systems, and shipped features<br><br>Looking to Collaborate On<br>0→1 startups<br>Product strategy + PRDs<br>AI × product systems<br><br>Currently Learning<br>Agent-to-agent protocols<br>GenAI applications in product<br>Scalable system design<br><br>Ask Me About<br>PRDs, GTM, product thinking<br>Founder’s Office execution<br>Early-stage chaos → structure<br><br>Fun Fact<br>I care more about how systems behave than how they look
 
 
